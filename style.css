@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://www.insidesport.in/wp-content/uploads/2020/09/MI-vs-CSK-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+
+.team{
+    height: 200px;
+    width: 40%;
+    background-color:  yellow;
+    padding: 20px;
+    margin-right: 20px;
+    float: left;
+    border-radius: 50px;
+
+}
+
+button{
+    width: 500px;
+    font-size: 32px;
+    padding: 100px;
+    margin-top: 50px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+   
+}
+
+button:hover{
+    background-color: black;
+    color: yellow;
+    cursor: pointer;
+}
+
+.winner{
+    background-color: green;
+    color: white;
+}
